@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>balıkesir</title>
+    </head>
+    <body>
+        <h1>BALIKESİR</h1>
+        <hr></hr>
+       
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/yöreselyemekleri.html" target="_blank"><h2>Yöresel Yemekler</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/yöreselkıyafetlerivehalkoyunları.html" target="_blank"><h2>Yöresel Kıyafetleri ve Halk Oyunları</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/ulaşımı.html" target="_blank"><h2>Ulaşım</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/türküleri.html" target="_blank"><h2>Türküler</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/nüfusu.html" target="_blank"><h2>Nüfus</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/ilçeleri.html" target="_blank"><h2>İlçeler</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/iklimi.html" target="_blank"><h2>İklim</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/gezilecekyerleri.html" target="_blank"><h2>Gezilecek Yerler</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/coğrafikonumu.html" target="_blank"><h2>Coğrafi Konum</h2> </a>
+         <a  href="file:///C:/Users/hamza/OneDrive/Masaüstü/Dersler/wtt/balıkesir/bitkiörtsü.html" target="_blank"><h2>Bitki Örtüsü</h2> </a>
+    
+     
+        </body>
+</html>
