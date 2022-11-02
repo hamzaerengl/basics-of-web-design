@@ -1,0 +1,207 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>İŞ BAŞVURUSU</title>
+    </head>
+    <body>
+        <form action="diger.html" method="GET">
+        <title></title>
+            <h2 align="center">İŞ BAŞVURUSU</h2>
+            <table border="10" width="400" align="center"  >
+            
+            <tr><th align="left">
+            Ad:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="ad" />
+            </th></tr>
+            
+            <tr><th align="left">
+            Soyad:
+            <input type="text" name="ad" />
+            <br />
+            </th></tr>
+            
+            <tr><th align="left">
+            Doğum Yeri:&nbsp;&nbsp;&nbsp;
+            <input  type="text" name="dogumyeri" />
+            
+            </th></tr>
+            
+            <tr><th align="left">
+            Doğum Tarihi: 
+            <input type="text" name="dogumtarihi"  />
+            
+            </th></tr>
+            
+            <tr><th align="left">
+            İkametgah Adresi:
+            <input type="text" name="ikametgah adresi" />
+            </th></tr>
+            
+            <tr><th align="left" >
+            Tel No:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="telefonnumarası" />
+           
+            </th></tr>
+            
+            <tr><th align="left">
+            E-posta Adresi:
+            <input type="text" name="epostaadresi" />
+            </th></tr>
+           
+            <tr><th align="left">
+            Cinsiyet:<br /> 
+            <label><input type="radio" name="cinsiyet" value="e" /> Erkek </label>
+        <label><input type="radio" name="cinsiyet" value="k" /> Kadın </label>
+            <br />
+            </th></tr>
+            
+            <tr><th align="left">
+            Uyruk:<br /> 
+        <label><input type="radio" name="uyruk" value="tc" /> TC</label>
+    <label><input type="radio" name="uyruk" value="diger" /> Diğer </label>
+            <br />
+            </th></tr>
+
+            <tr><th align="left">
+                Medeni Durumu:<br /> 
+            <label><input type="radio" name="medenidurumu" value="evli" /> Evli</label>
+        <label><input type="radio" name="medenidurumu" value="bekar" /> Bekar</label>
+                <br />
+                </th></tr>
+
+                <tr><th align="left">
+                    Sigara Kullanıyor musunuz ?<br /> 
+                <label><input type="radio" name="sigarakullanımı" value="Evet" /> Evet</label>
+            <label><input type="radio" name="sigarakullanımı" value="Hayır" /> Hayır</label>
+                    <br />
+                    </th></tr>
+            
+            <tr><th align="left">
+                Askerlik Durumu:
+            <select>
+
+                <option value="sec">Seç</option>    
+
+                <option value="tamamlandı">Tamamlandı</option>
+              
+                <option value="tecilli">Tecilli</option>
+              
+                <option value="muaf">Muaf</option>
+
+              </select>
+            </th></tr>
+            
+            <tr><th align="left">
+                Sürücü Belgesi:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <select>
+
+                <option value="sec">Seç</option>
+
+                <option value="b">B</option>
+              
+                <option value="c">C</option>
+              
+                <option value="d">D</option>
+                
+                <option value="e">E</option>
+
+                <option value="f">F</option>
+
+                <option value="yok">YOK</option>
+              </select>
+            </th></tr>
+
+            <tr><th align="left">
+               Eşinizin Mesleği:
+                <input type="text" name="esinizinmeslegi" />
+                </th></tr>
+
+                <tr><th align="left">
+                   Çocuk Sayısı:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="text" name="cocuksayisi" />
+                    </th></tr>    
+
+                    <tr><th align="left">
+                        Öğrenim Durumu:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <select>
+        
+                        <option value="sec">Seç</option>
+        
+                        <option value="ilkogretim">İlköğretim</option>
+                      
+                        <option value="lise">Lise</option>
+                        
+                        <option value="onlisans">Önlisans</option>
+        
+                        <option value="lisans">Lisans</option>
+
+                        <option value="yukseklisans">Y.lisans</option>
+        
+                        <option value="doktora">Doktora</option>
+                      </select>
+                    </th></tr>
+
+                    <tr><th align="left">
+                        Yabancı Dil:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <select>
+        
+                        <option value="sec">Seç</option>
+        
+                        <option value="ingilizce">İngilizce</option>
+                      
+                        <option value="almanca">Almanca</option>
+                        
+                        <option value="fransizca">Fransızca</option>
+        
+                        <option value="diger">Diğer</option>
+
+                      </select>
+<br />Seviyesi:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      <select>
+        
+                        <option value="sec">Seç</option>
+        
+                        <option value="a1">A1</option>
+                      
+                        <option value="a2">A2</option>
+                        
+                        <option value="b1">B1</option>
+        
+                        <option value="b2">B2</option>
+
+                        <option value="c1">C1</option>
+                        
+                        <option value="c2">C2</option>
+                        
+                      </select>
+                    </th></tr>
+
+                    <tr><th align="left">
+                        Bilgisayar Kullanma Becerisi:
+                    <select>
+        
+                        <option value="sec">Seç</option>
+        
+                        <option value="kotu">Kötü</option>
+                      
+                        <option value="iyi">İyi</option>
+                      
+                        <option value="orta">Orta</option>
+                        
+                        <option value="cokiyi">Çok İyi</option>
+        
+                      </select>
+                    </th></tr>
+
+                    <tr><th align="left">
+                        İş Tecrübesi:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="text" name="ad" />
+                        </th></tr>
+
+
+
+            
+            </table>
+        </form>
+    </body>
+</html>
